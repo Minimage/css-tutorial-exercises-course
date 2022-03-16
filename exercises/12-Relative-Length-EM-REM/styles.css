@@ -1,8 +1,22 @@
 #my-first-div {
 	font-size: 15px;
+	float: left;
+	border-style: solid;
 }
 #the-second-one {
 	font-size: 25px;
+	float: left;
+	border: 1px 1px 1px 1px;
+	border-color: black;
+	margin-left: 50px;
+	border-style: solid;
 }
 
 /* YOUR CODE BELOW THIS LINE */
+h2 {
+	font-size: 0.8em;
+}
+
+h3 {
+	font-size: 0.8rem;
+}
